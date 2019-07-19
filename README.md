@@ -1,1 +1,1 @@
-# fast_ai
+# fastAI
